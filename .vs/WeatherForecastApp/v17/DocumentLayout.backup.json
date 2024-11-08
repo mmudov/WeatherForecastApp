@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\WeatherForecastApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7D5D47-B272-4438-8CA6-B0194AF03142}|WeatherForecastApp\\WeatherForecastApp.csproj|d:\\dev\\weatherforecastapp\\weatherforecastapp\\views\\weatherforecast\\searchbycity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B7D5D47-B272-4438-8CA6-B0194AF03142}|WeatherForecastApp\\WeatherForecastApp.csproj|solutionrelative:weatherforecastapp\\views\\weatherforecast\\searchbycity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7D5D47-B272-4438-8CA6-B0194AF03142}|WeatherForecastApp\\WeatherForecastApp.csproj|d:\\dev\\weatherforecastapp\\weatherforecastapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B7D5D47-B272-4438-8CA6-B0194AF03142}|WeatherForecastApp\\WeatherForecastApp.csproj|solutionrelative:weatherforecastapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 284,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchByCity.cshtml",
+              "DocumentMoniker": "D:\\dev\\WeatherForecastApp\\WeatherForecastApp\\Views\\WeatherForecast\\SearchByCity.cshtml",
+              "RelativeDocumentMoniker": "WeatherForecastApp\\Views\\WeatherForecast\\SearchByCity.cshtml",
+              "ToolTip": "D:\\dev\\WeatherForecastApp\\WeatherForecastApp\\Views\\WeatherForecast\\SearchByCity.cshtml",
+              "RelativeToolTip": "WeatherForecastApp\\Views\\WeatherForecast\\SearchByCity.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T12:58:49.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\dev\\WeatherForecastApp\\WeatherForecastApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WeatherForecastApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\dev\\WeatherForecastApp\\WeatherForecastApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WeatherForecastApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T12:57:39.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 108,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 162,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 270,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
